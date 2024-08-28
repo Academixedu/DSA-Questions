@@ -5,12 +5,14 @@
 - **Practice Problems:**
   - [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)
   - [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
+  - [Array Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)
 
 #### **Day 2: Advanced Array Techniques**
 - **Topics:** Prefix Sum, Two Pointer Technique
 - **Practice Problems:**
   - [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem)
   - [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
+  - [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)
 
 #### **Day 3: Sliding Window Technique**
 - **Topics:** Introduction to Sliding Window
@@ -23,6 +25,11 @@
 - **Practice Problems:**
   - [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)
   - [String Construction](https://www.hackerrank.com/challenges/string-construction/problem)
+  - [Two Characters](https://www.hackerrank.com/challenges/two-characters/problem)
+  - [Ceaser Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)
+  - [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)
+  - [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)
+  - [Game of Thrones 1](https://www.hackerrank.com/challenges/game-of-thrones/problem?)
 
 #### **Day 5: Modified Binary Search**
 - **Topics:** Binary Search basics and modifications
