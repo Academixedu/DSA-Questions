@@ -76,6 +76,10 @@
 - **Practice Problems:**
   - [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem)
   - [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)
+  - [Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)
+  - [Print Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)
+  - [Merge Two Sorted Linked Lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)
+  - [Compare Two LinkedLists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem)
 
 #### **Day 2: Doubly Linked Lists**
 - **Topics:** Doubly Linked List operations
@@ -107,6 +111,7 @@
 - **Practice Problems:**
   - [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem)
   - [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem)
+  - [Game of Two Stacks](https://www.hackerrank.com/challenges/game-of-two-stacks/problem)
 
 #### **Day 2: Introduction to Queues**
 - **Topics:** Queue operations, FIFO principle
