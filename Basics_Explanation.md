@@ -17,3 +17,4 @@ Most Common Functions Used in this Strings
 -  Compare
 -  SubString()
 -  Traversal and Swapping
+- Delete
