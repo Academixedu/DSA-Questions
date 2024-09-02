@@ -10,10 +10,10 @@
 |Game of Thrones 1       | Anagram,Palindrome,Traversal|                  |
 
 Most Common Functions Used in this Strings
--> Insert
--> Count
--> Split()
--> CharAt()
--> Compare
--> SubString()
--> Traversal and Swapping
+- Insert
+- Count
+-  Split()
+-  CharAt()
+-  Compare
+-  SubString()
+-  Traversal and Swapping
