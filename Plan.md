@@ -27,7 +27,7 @@
   - [String Construction](https://www.hackerrank.com/challenges/string-construction/problem)
   - [Two Characters](https://www.hackerrank.com/challenges/two-characters/problem)
   - [Ceaser Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)
-  - [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)
+  - [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem)
   - [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string/problem)
   - [Game of Thrones 1](https://www.hackerrank.com/challenges/game-of-thrones/problem?)
 
