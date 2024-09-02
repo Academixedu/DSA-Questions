@@ -8,3 +8,12 @@
 |GemStones             | Comparision,Counting |arr['abc','abc','bc' ]The minerals b and c appear in each rock, so there are  2 gemstones.|
 |Beautiful Binary String |SubStrings,Traversal,Manipulation|
 |Game of Thrones 1       | Anagram,Palindrome,Traversal|                  |
+
+Most Common Functions Used in this Strings
+-> Insert
+-> Count
+-> Split()
+-> CharAt()
+-> Compare
+-> SubString()
+-> Traversal and Swapping
