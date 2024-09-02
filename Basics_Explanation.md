@@ -2,7 +2,7 @@
 
 | Problems          | Concepts            | Functionality |
 |-------------------|---------------------|---------------|
-| CamelCase         | Counting, Comparing  | Row 1 Col 3   |
+| CamelCase         | Counting, Comparing  | Comparing Each Set of Characters and When There is Camel Case Split as Separate Word |
 | String Construction | Comparing, Removing | Row 2 Col 3   |
 | Two Characters       | Comparision, Concatenation,Manipulation | Row 3 Col 3   |
 |Panagrams             | Comparision |
