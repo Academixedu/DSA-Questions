@@ -19,7 +19,7 @@ Most Common Functions Used in this Strings
 - Delete
 
 Combinations to Work
-- count & charAt()  (Ex: Finding out char 'a' and returning it occurence count)
-- Traversal & Delete (Ex: Checking for Each Element and Delete Target Element from it)
-- SubString and Manipulation (Ex Compare a SubString with target if target appears do some replacement either insert at particular Index or delete)
-- Swapping and Traversal (Ex: Check by Swapping Each Characters in a String Such that It Should follows one Particular order let's say either asc,desc or checking for palindrome e.t.c
+- **count & charAt()**  (Ex: Finding out char 'a' and returning it occurence count)
+- **Traversal & Delete** (Ex: Checking for Each Element and Delete Target Element from it)
+- **SubString and Manipulation** (Ex Compare a SubString with target if target appears do some replacement either insert at particular Index or delete)
+- **Swapping and Traversal** (Ex: Check by Swapping Each Characters in a String Such that It Should follows one Particular order let's say either asc,desc or checking for palindrome e.t.c
