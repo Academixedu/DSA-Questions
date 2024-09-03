@@ -29,3 +29,8 @@ Required Functions Based on Problems
 - **Gemstone:** Traversal and Counting
 - **Beautiful Binary String :** Sub-string and Manipulation
 - **Game of Thrones:** Swapping and Traversal
+## Arrays
+| Problems          | Concepts            | Functionality |
+|-------------------|---------------------|---------------|
+| Array DS          | Index,Swap          | Reverse the Given Array|
+
