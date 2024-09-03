@@ -23,3 +23,7 @@ Combinations to Work
 - **Traversal & Delete** (Ex: Checking for Each Element and Delete Target Element from it)
 - **SubString and Manipulation** (Ex Compare a SubString with target if target appears do some replacement either insert at particular Index or delete)
 - **Swapping and Traversal** (Ex: Check by Swapping Each Characters in a String Such that It Should follows one Particular order let's say either asc,desc or checking for palindrome e.t.c
+
+Required Functions Based on Problems
+CamelCase: Count and CharAt()
+Two Characters: Delete and Traversal
