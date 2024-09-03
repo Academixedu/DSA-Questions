@@ -13,7 +13,6 @@ Most Common Functions Used in this Strings
 - Count
 -  Split()
 -  CharAt()
--  Compare
 -  SubString()
 -  Traversal and Swapping
 - Delete
