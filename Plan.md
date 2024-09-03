@@ -5,7 +5,6 @@
 - **Practice Problems:**
   - [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)
   - [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
-  - [Array Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)
 
 #### **Day 2: Advanced Array Techniques**
 - **Topics:** Prefix Sum, Two Pointer Technique
