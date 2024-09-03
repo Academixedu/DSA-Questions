@@ -25,5 +25,8 @@ Combinations to Work
 - **Swapping and Traversal** (Ex: Check by Swapping Each Characters in a String Such that It Should follows one Particular order let's say either asc,desc or checking for palindrome e.t.c
 
 Required Functions Based on Problems
-CamelCase: Count and CharAt()
-Two Characters: Delete and Traversal
+- **CamelCase:** Count and CharAt()
+- **Two Characters:** Delete and Traversal
+- **Gemstone:** Comparing and Counting
+- **Beautiful Binary String :** Sub-string and Manipulation
+- **Game of Thrones:** Swapping and Traversal
