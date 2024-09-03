@@ -27,6 +27,6 @@ Combinations to Work
 Required Functions Based on Problems
 - **CamelCase:** Count and CharAt()
 - **Two Characters:** Delete and Traversal
-- **Gemstone:** Comparing and Counting
+- **Gemstone:** Traversal and Counting
 - **Beautiful Binary String :** Sub-string and Manipulation
 - **Game of Thrones:** Swapping and Traversal
