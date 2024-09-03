@@ -17,3 +17,8 @@ Most Common Functions Used in this Strings
 -  SubString()
 -  Traversal and Swapping
 - Delete
+
+Combinations to Work
+- count & charAt()  (Ex: Finding out char 'a' and returning it occurence count)
+- Traversal & Delete (Ex: Checking for Each Element and Delete Target Element from it)
+- SubString and Manipulation 
